@@ -34,3 +34,4 @@
 
         </div>
     </nav>
+    <h3><?php echo SITE_TITLE; ?></h3>
